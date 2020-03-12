@@ -1,1 +1,3 @@
-# Personal_expenses
+# Personal expenses
+
+Some data wrangling to analyze personal expenses.
